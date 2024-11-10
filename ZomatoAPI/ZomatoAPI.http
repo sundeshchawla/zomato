@@ -1,0 +1,6 @@
+@ZomatoAPI_HostAddress = http://localhost:5134
+
+GET {{ZomatoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
